@@ -90,7 +90,7 @@ Follow the steps below to run the project on your local machine.
 ### 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/Pika003/e-Learning-Platform.git
+git clone https://github.com/Danishk23/E-LEARNING_PLATFORM-BY-DANISH-.git
 cd e-Learning-Platform
   - Fill the env file with your credentials
 npm install
