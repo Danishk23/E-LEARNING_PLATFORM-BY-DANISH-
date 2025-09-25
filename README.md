@@ -10,17 +10,13 @@ Develop a comprehensive online learning platform with three user types (Student,
 
 
 ## Features
-![Screenshot 2024-05-14 212028](https://github.com/Pika003/e-Learning-Platform/assets/104189733/e2f9ce48-764b-48d2-8af1-188ea2918e8c)
+<!--![Screenshot 2024-05-14 212028](https://github.com/Pika003/e-Learning-Platform/assets/104189733/e2f9ce48-764b-48d2-8af1-188ea2918e8c) -->
 
 
 #### 1. *User Authentication:*
    - Student Login [/login]
    - Teacher Login [/login]
    - Admin Login [/adminLogin]
-
-     ![Screenshot 2024-05-14 211251](https://github.com/Pika003/e-Learning-Platform/assets/104189733/3179ba23-ae52-4ab5-8d0a-b2891cc43e0f)
-
-![Screenshot 2024-05-14 211154](https://github.com/Pika003/e-Learning-Platform/assets/104189733/377d8aa0-c35b-46d0-9408-f18b6ecb1ac1)
 
 #### 2. *Application Approval:*
    - Students and teachers can submit applications for approval.
