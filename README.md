@@ -22,21 +22,19 @@ Develop a comprehensive online learning platform with three user types (Student,
    - Students and teachers can submit applications for approval.
    - Admin validates and approves applications.
 
-     ![Screenshot 2024-05-15 212149](https://github.com/Pika003/e-Learning-Platform/assets/104189733/6e8afdba-a8a5-47e3-977c-f5292e136c3f)
-
+  
 
 #### 3. *Dashboard:*
    - Students see purchased courses, progress, and communication options.
    - Teachers view created courses, student enrollments, and communication features.
 
      
-![Screenshot 2024-05-14 211938](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1008e68d-b683-4e8a-bc85-6d5890946724)
-![Screenshot 2024-05-14 211854](https://github.com/Pika003/e-Learning-Platform/assets/104189733/c857a214-5366-49db-8035-13d2bfb88396)
+
 #### 4. *Course Purchase:*
 
    - Students can browse and buy courses on the platform.
      
-![Screenshot 2024-05-14 211813](https://github.com/Pika003/e-Learning-Platform/assets/104189733/1578ca04-b85d-4c7b-8875-12f6756f2621)
+
 
 #### 5. *Live Video Conferencing:*
    - Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
